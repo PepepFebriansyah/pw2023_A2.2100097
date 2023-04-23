@@ -16,7 +16,7 @@ while ($row = mysqli_fetch_assoc($result)) {
 
 
 
-// tampung le variabel mahasiswa
+// tampung ke variabel mahasiswa
 $mahasiswa = $rows;
 
 ?>
